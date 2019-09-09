@@ -1,5 +1,5 @@
 # Programming Challenge Website Answers
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 This is for myself to learn from and understand how to work through different problems.
 
